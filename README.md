@@ -94,7 +94,7 @@ var server = app.listen(app.get('port'), function(){
 ```
 
 * Download images [here](https://drive.google.com/drive/folders/0By-aduulSKAMU3RxUm16Vm04cU0?usp=sharing)
-
+adadada
 ## 3. Upload files to remote repository (Github)
 * Create new github remote repository
 * Open ```.gitignore``` file and write ```node_modules``` inside.
